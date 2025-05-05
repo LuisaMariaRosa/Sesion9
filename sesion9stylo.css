@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+body {
+    background-color: #181e00;
+    }
+
+header
+{background-color: black;
+    font-family: "Lobster Two", sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    background: linear-gradient(90deg, #c49e00, #e6b800, #f2d479, #cca300);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+h2{
+    font-family:"Lobster Two", sans-serif;
+    color: #fff84b;
+}
+
+p{
+    font-family: "Nunito", sans-serif;
+    color: #e2e2e2;
+}
+
+.Resaltar{
+    background-color:#767872;
+    width: 60%;
+    margin: 32px 32px 32px 32px;
+    padding: 16px 16px 16px 16px;
+    border-radius: 34px 16px 34px 16px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
